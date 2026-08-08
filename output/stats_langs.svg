@@ -177,15 +177,15 @@ div.ellipsis {
       <h2>Languages Used (By File Size)</h2>
       <div>
         <span class="progress">
-          <span class="progress-item" style="--final-width: 81.06088550855577%; --color: #f1e05a; --delay: 0.85s;"></span>
-          <span class="progress-item" style="--final-width: 10.013834662392604%; --color: #663399; --delay: 1.11s;"></span>
-          <span class="progress-item" style="--final-width: 4.8883799708456435%; --color: #b07219; --delay: 1.36s;"></span>
-          <span class="progress-item" style="--final-width: 1.9058261775572978%; --color: #f7931e; --delay: 1.62s;"></span>
-          <span class="progress-item" style="--final-width: 1.1193427249219894%; --color: #4F5D95; --delay: 1.88s;"></span>
-          <span class="progress-item" style="--final-width: 0.5793745523358357%; --color: #3178c6; --delay: 2.13s;"></span>
-          <span class="progress-item" style="--final-width: 0.41578238768187326%; --color: #e34c26; --delay: 2.39s;"></span>
-          <span class="progress-item" style="--final-width: 0.015195057601997155%; --color: #89e051; --delay: 2.64s;"></span>
-          <span class="progress-item" style="--final-width: 0.0013789581069875256%; --color: #C1F12E; --delay: 2.90s;"></span>
+          <span class="progress-item" style="--final-width: 81.0644256069198%; --color: #f1e05a; --delay: 0.85s;"></span>
+          <span class="progress-item" style="--final-width: 10.011962876902208%; --color: #663399; --delay: 1.11s;"></span>
+          <span class="progress-item" style="--final-width: 4.887466235098105%; --color: #b07219; --delay: 1.36s;"></span>
+          <span class="progress-item" style="--final-width: 1.9054699406204363%; --color: #f7931e; --delay: 1.62s;"></span>
+          <span class="progress-item" style="--final-width: 1.1191334974340266%; --color: #4F5D95; --delay: 1.88s;"></span>
+          <span class="progress-item" style="--final-width: 0.5792662556725565%; --color: #3178c6; --delay: 2.13s;"></span>
+          <span class="progress-item" style="--final-width: 0.41570466965809294%; --color: #e34c26; --delay: 2.39s;"></span>
+          <span class="progress-item" style="--final-width: 0.015192217342565676%; --color: #89e051; --delay: 2.64s;"></span>
+          <span class="progress-item" style="--final-width: 0.0013787003522049129%; --color: #C1F12E; --delay: 2.90s;"></span>
           </span>
           </div>
           <ul>
